@@ -1,0 +1,23 @@
+.Button{
+    width: 60px;
+    background-color: #737474;
+    height: 50px;
+    margin: 5px;
+    box-shadow: none;
+    border: none;
+    border-radius: 3px;
+    text-align: center;
+    cursor: pointer;
+}
+.clear-button{
+    width: 96%;
+    background-color: #FF9F09;
+    margin: 2%;
+    height: 35px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.clear-all{
+    margin-top: 5px;
+}

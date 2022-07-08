@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+body{
+  background-color: #1f1f1f;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.calculator-wrapper{
+  width: 30%;
+  margin: auto;
+  background-color: #454647;
+  height: 460px;
+  margin-top: 20%;
+  border-radius: 16px;
+}
+
+.button-wrapper{
+  margin-left: 60px;
+  margin-right: 60px;
+  display: flex;
+}
