@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mithun-srinivas/react-calculator-mac/static/css/main.4520b2ab.css",
+    "main.js": "/mithun-srinivas/react-calculator-mac/static/js/main.87c2b06e.js",
+    "index.html": "/mithun-srinivas/react-calculator-mac/index.html",
+    "main.4520b2ab.css.map": "/mithun-srinivas/react-calculator-mac/static/css/main.4520b2ab.css.map",
+    "main.87c2b06e.js.map": "/mithun-srinivas/react-calculator-mac/static/js/main.87c2b06e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4520b2ab.css",
+    "static/js/main.87c2b06e.js"
+  ]
+}
